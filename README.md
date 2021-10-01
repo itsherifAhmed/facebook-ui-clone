@@ -42,9 +42,5 @@ A UI clone of the Facebook app using
 - [Speech to Text app flutter](https://github.com/itsherifAhmed/Speech-to-text-app)
 - [api flutter project](https://github.com/itsherifAhmed/apiFlutter-Project)
 - [qr code app](https://github.com/itsherifAhmed/qr-barcode)
-- [SnakeGameFlutter](https://www.github.com/ahmedgulabkhan/SnakeGameFlutter)
 
-
-- [Lab: Write your first Flutter app](https://github.com/itsherifAhmed)
-- [Cookbook: Useful Flutter samples](https://github.com/itsherifAhmed/Music-Player-Read-external-Storage-Flutter-app)
 
