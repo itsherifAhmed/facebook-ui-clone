@@ -31,11 +31,11 @@ A UI clone of the Facebook app using
 
 | Profile Page | Notifications Page |
 |------|-------|
-|<img src="snapshot/progile.jpg" width="400">|<img src="snapshots/note.jpg" width="400">|
+|<img src="snapshot/progile.jpg" width="400">|<img src="snapshot/note.jpg" width="400">|
 
 | Menu Page |
 |------|
-|<img src="snapshots/setting.jpg" width="400">
+|<img src="snapshot/setting.jpg" width="400">
 ## Other Flutter Projects
 - [music app player external storage read](https://github.com/itsherifAhmed/Music-Player-Read-external-Storage-Flutter-app)
 - [Make Up App flutter MVC Getx](https://github.com/itsherifAhmed/MakeUp-App)
