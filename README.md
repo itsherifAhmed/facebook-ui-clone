@@ -27,7 +27,7 @@ A UI clone of the Facebook app using
 
 | Friends Page | add Page |
 |------|-------|
-|<img src="snapshot/confirm.jpg" width="400">|<img src="snapshots/add.jpg" width="400">|
+|<img src="snapshot/confirm.jpg" width="400">|<img src="snapshots/addfr.jpg" width="400">|
 
 | Profile Page | Notifications Page |
 |------|-------|
