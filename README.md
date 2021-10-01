@@ -27,11 +27,11 @@ A UI clone of the Facebook app using
 
 | Friends Page | add Page |
 |------|-------|
-|<img src="snapshot/confirm.jpg" width="400">|<img src="snapshots/addfr.jpg" width="400">|
+|<img src="snapshot/confirm.jpg" width="400">|<img src="snapshot/addfr.jpg" width="400">|
 
 | Profile Page | Notifications Page |
 |------|-------|
-|<img src="snapshots/snapshot5.jpeg" width="400">|<img src="snapshots/note.jpg" width="400">|
+|<img src="snapshot/progile.jpg" width="400">|<img src="snapshots/note.jpg" width="400">|
 
 | Menu Page |
 |------|
