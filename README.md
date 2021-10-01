@@ -7,7 +7,7 @@ facebook clone app ui by flutter framework using
 
 
 
-<p><img src="snapshots/facebook.png" /></p>
+<p><img src="snapshot/facebook.png" /></p>
 <p align="center"><b>facebook clone</b></p>
 
 
@@ -23,7 +23,7 @@ A UI clone of the Facebook app using
 
 | Home Page | Home Page |
 |------|-------|
-|<img src="snapshots/snapshot1.jpeg" width="400">|<img src="snapshots/home.jpg" width="400">|
+|<img src="snapshot/snapshot1.jpeg" width="400">|<img src="snapshots/home.jpg" width="400">|
 
 | Friends Page | Watch Page |
 |------|-------|
