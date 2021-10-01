@@ -1,9 +1,5 @@
-# Facebook UI App Flutter framework
-
-facebook clone app ui by flutter framework using
-  flutter_statusbarcolor:
-  font_awesome_flutter:
-  youtube_player_flutter:
+# Facebook UI App Flutter 
+facebook clone app ui by flutter 
 
 
 
