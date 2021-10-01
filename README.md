@@ -23,11 +23,11 @@ A UI clone of the Facebook app using
 
 | Home Page | posts  |
 |------|-------|
-|<img src="snapshot/home.jpg" width="400">|<img src="snapshot/post.jpg" width="400">|
+|<img src="snapshot/home.jpg" width="400">|<img src="snapshot/posts.jpg" width="400">|
 
-| Friends Page | Watch Page |
+| Friends Page | add Page |
 |------|-------|
-|<img src="snapshots/snapshot3.jpeg" width="400">|<img src="snapshots/confirm.jpg" width="400">|
+|<img src="snapshot/confirm.jpg" width="400">|<img src="snapshots/add.jpg" width="400">|
 
 | Profile Page | Notifications Page |
 |------|-------|
