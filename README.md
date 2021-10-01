@@ -21,9 +21,9 @@ A UI clone of the Facebook app using
 
 ## Snapshots
 
-| Home Page | Home Page |
+| Home Page | posts  |
 |------|-------|
-|<img src="snapshot/snapshot1.jpeg" width="400">|<img src="snapshots/home.jpg" width="400">|
+|<img src="snapshot/home.png" width="400">|<img src="snapshot/post.png" width="400">|
 
 | Friends Page | Watch Page |
 |------|-------|
