@@ -23,7 +23,7 @@ A UI clone of the Facebook app using
 
 | Home Page | posts  |
 |------|-------|
-|<img src="snapshot/home.png" width="400">|<img src="snapshot/post.png" width="400">|
+|<img src="snapshot/home.jpg" width="400">|<img src="snapshot/post.jpg" width="400">|
 
 | Friends Page | Watch Page |
 |------|-------|
